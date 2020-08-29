@@ -1,14 +1,2 @@
-
-archetypes
-assets
-content
-i18n
-layouts
-public
-resources
-static
-themes
-.gitmodules
-config.yaml
-LICENSE
-theme.toml
+public 
+source
