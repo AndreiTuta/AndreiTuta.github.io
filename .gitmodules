@@ -1,0 +1,3 @@
+[submodule "git-pages/themes/ramium"]
+	path = git-pages/themes/ramium
+	url = https://github.com/rafed/ramium
